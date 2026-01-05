@@ -53,7 +53,7 @@ Aqui você vai encontrar projetos voltados para:
 
 ## 📫 Onde me encontrar
 
-📍 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+📍 Instagram: [Instagram.com/wellington_lacerda.art](https://www.instagram.com/wellington_lacerda.art?igsh=djd5aHYxaDNwbjRn)
 
 ---
 
