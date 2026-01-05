@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wellington!
 
-<!--
-**WellingtonDeLacerda/Wellingtondelacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end em constante evolução  
+🎨 Apaixonado por design, código limpo e criatividade  
+🚀 Estudando e construindo projetos com foco em web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou um desenvolvedor iniciante focado em **HTML, CSS e JavaScript**, sempre buscando evoluir tanto na parte técnica quanto na criatividade.  
+Atualmente estou estudando, praticando e criando projetos para fortalecer minha base e avançar para níveis mais profissionais.
+
+Gosto de aprender fazendo, testar ideias e transformar conceitos em interfaces bonitas e funcionais.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🧩 Conceitos:
+- Layout responsivo (Mobile First)
+- Semântica HTML
+- Estilização moderna com CSS
+- Lógica básica e intermediária em JavaScript
+
+---
+
+## 📂 Projetos
+
+🚧 *Em construção...*  
+Aqui você vai encontrar projetos voltados para:
+- Sites responsivos
+- Interfaces modernas
+- Exercícios práticos de JavaScript
+- Estudos e experimentos criativos
+
+> Aos poucos vou organizando tudo aqui 😄
+
+---
+
+## 📈 Em aprendizado
+
+- JavaScript intermediário
+- Boas práticas de desenvolvimento
+- Organização de código
+- Projetos mais completos e profissionais
+
+---
+
+## 📫 Onde me encontrar
+
+📍 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*
