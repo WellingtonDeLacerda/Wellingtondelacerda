@@ -1,60 +1,64 @@
-# 👋 Olá, eu sou o Wellington!
+<h1 align="center">👋 Wellington</h1>
 
-💻 Desenvolvedor Front-end em constante evolução  
-🎨 Apaixonado por design, código limpo e criatividade  
-🚀 Estudando e construindo projetos com foco em web
+<p align="center">
+  <strong>Front-end Developer</strong> • Web Enthusiast • Em constante evolução
+</p>
 
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor iniciante focado em **HTML, CSS e JavaScript**, sempre buscando evoluir tanto na parte técnica quanto na criatividade.  
-Atualmente estou estudando, praticando e criando projetos para fortalecer minha base e avançar para níveis mais profissionais.
-
-Gosto de aprender fazendo, testar ideias e transformar conceitos em interfaces bonitas e funcionais.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Front--end-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local-Brasil-success?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+</p>
 
-🧩 Conceitos:
-- Layout responsivo (Mobile First)
-- Semântica HTML
-- Estilização moderna com CSS
-- Lógica básica e intermediária em JavaScript
+---
+
+## 🧩 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Sem%C3%A2ntico-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-Responsivo-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile--First-Design-informational?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📂 Projetos
 
-🚧 *Em construção...*  
-Aqui você vai encontrar projetos voltados para:
-- Sites responsivos
-- Interfaces modernas
-- Exercícios práticos de JavaScript
-- Estudos e experimentos criativos
-
-> Aos poucos vou organizando tudo aqui 😄
+<p align="center">
+  🚧 Em construção 🚧
+</p>
 
 ---
 
-## 📈 Em aprendizado
+## 🔗 Contato
 
-- JavaScript intermediário
-- Boas práticas de desenvolvimento
-- Organização de código
-- Projetos mais completos e profissionais
-
----
-
-## 📫 Onde me encontrar
-
-📍 Instagram: [Instagram.com/wellington_lacerda.art](https://www.instagram.com/wellington_lacerda.art?igsh=djd5aHYxaDNwbjRn)
+<p align="center">
+  <a href="https://www.instagram.com/wellington_lacerda.art?igsh=djd5aHYxaDNwbjRn">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ *Obrigado por visitar meu perfil!*
+<p align="center">
+  ⭐ Obrigado pela visita
+</p>
